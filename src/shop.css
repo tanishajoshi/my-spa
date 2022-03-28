@@ -1,0 +1,22 @@
+
+#container div.gallery {
+    margin: 10px;
+    border: 1px solid #ccc;
+    
+    width: 180px;
+  }
+  
+  #container div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  #container div.gallery img {
+    width: 90%;
+    height: auto;
+  }
+  
+  #container div.desc {
+    padding: 15px;
+
+    text-align: right;
+  }
