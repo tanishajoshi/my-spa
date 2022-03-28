@@ -1,0 +1,13 @@
+{
+  "main.css": "/my-spa/static/css/main.43c78a85.chunk.css",
+  "main.js": "/my-spa/static/js/main.9f851fd6.chunk.js",
+  "main.js.map": "/my-spa/static/js/main.9f851fd6.chunk.js.map",
+  "static/js/1.52bfdaa0.chunk.js": "/my-spa/static/js/1.52bfdaa0.chunk.js",
+  "static/js/1.52bfdaa0.chunk.js.map": "/my-spa/static/js/1.52bfdaa0.chunk.js.map",
+  "runtime~main.js": "/my-spa/static/js/runtime~main.1defe586.js",
+  "runtime~main.js.map": "/my-spa/static/js/runtime~main.1defe586.js.map",
+  "static/css/main.43c78a85.chunk.css.map": "/my-spa/static/css/main.43c78a85.chunk.css.map",
+  "index.html": "/my-spa/index.html",
+  "precache-manifest.237a2ac2fd1b48186c30da630b548ad8.js": "/my-spa/precache-manifest.237a2ac2fd1b48186c30da630b548ad8.js",
+  "service-worker.js": "/my-spa/service-worker.js"
+}
