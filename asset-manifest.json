@@ -1,13 +1,27 @@
 {
-  "main.css": "/my-spa/static/css/main.43c78a85.chunk.css",
-  "main.js": "/my-spa/static/js/main.9f851fd6.chunk.js",
-  "main.js.map": "/my-spa/static/js/main.9f851fd6.chunk.js.map",
-  "static/js/1.52bfdaa0.chunk.js": "/my-spa/static/js/1.52bfdaa0.chunk.js",
-  "static/js/1.52bfdaa0.chunk.js.map": "/my-spa/static/js/1.52bfdaa0.chunk.js.map",
-  "runtime~main.js": "/my-spa/static/js/runtime~main.1defe586.js",
-  "runtime~main.js.map": "/my-spa/static/js/runtime~main.1defe586.js.map",
-  "static/css/main.43c78a85.chunk.css.map": "/my-spa/static/css/main.43c78a85.chunk.css.map",
-  "index.html": "/my-spa/index.html",
-  "precache-manifest.237a2ac2fd1b48186c30da630b548ad8.js": "/my-spa/precache-manifest.237a2ac2fd1b48186c30da630b548ad8.js",
-  "service-worker.js": "/my-spa/service-worker.js"
+  "files": {
+    "main.js": "/my-spa/static/js/main.f379d214.chunk.js",
+    "main.js.map": "/my-spa/static/js/main.f379d214.chunk.js.map",
+    "runtime-main.js": "/my-spa/static/js/runtime-main.000e1103.js",
+    "runtime-main.js.map": "/my-spa/static/js/runtime-main.000e1103.js.map",
+    "static/js/2.2f0e9ee7.chunk.js": "/my-spa/static/js/2.2f0e9ee7.chunk.js",
+    "static/js/2.2f0e9ee7.chunk.js.map": "/my-spa/static/js/2.2f0e9ee7.chunk.js.map",
+    "index.html": "/my-spa/index.html",
+    "static/js/2.2f0e9ee7.chunk.js.LICENSE.txt": "/my-spa/static/js/2.2f0e9ee7.chunk.js.LICENSE.txt",
+    "static/media/alessio.7d342280.jpg": "/my-spa/static/media/alessio.7d342280.jpg",
+    "static/media/andy.bc1fb18a.jpg": "/my-spa/static/media/andy.bc1fb18a.jpg",
+    "static/media/bg-about-us.cf9a123e.jpg": "/my-spa/static/media/bg-about-us.cf9a123e.jpg",
+    "static/media/bg-sign-in-basic.f327db1d.jpeg": "/my-spa/static/media/bg-sign-in-basic.f327db1d.jpeg",
+    "static/media/download.1e547c58.jpg": "/my-spa/static/media/download.1e547c58.jpg",
+    "static/media/flavio.65da4674.png": "/my-spa/static/media/flavio.65da4674.png",
+    "static/media/lorenzo.b7522838.jpg": "/my-spa/static/media/lorenzo.b7522838.jpg",
+    "static/media/prince.2683c8e3.jpg": "/my-spa/static/media/prince.2683c8e3.jpg",
+    "static/media/saishreyas.d21aed07.jpg": "/my-spa/static/media/saishreyas.d21aed07.jpg",
+    "static/media/tanisha.f106ccbe.jpg": "/my-spa/static/media/tanisha.f106ccbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.000e1103.js",
+    "static/js/2.2f0e9ee7.chunk.js",
+    "static/js/main.f379d214.chunk.js"
+  ]
 }
