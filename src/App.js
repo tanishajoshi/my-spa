@@ -42,7 +42,7 @@ export default function App() {
       <Routes>
         {getRoutes(routes)}
         <Route path="/" element={<Presentation />} />
-        <Route path="*" element={<Navigate to="/" />} />
+        <Route path="*" element={<Navigate to="/my-spa" />} />
       </Routes>
     </ThemeProvider>
   );
